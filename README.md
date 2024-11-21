@@ -7,7 +7,7 @@
 
 - 📫 How to reach me [rishaamaraa@gmail.com](rishaamaraa@gmail.com)
 
-- ⚡ Fun fact [I am Humble](I am Humble)
+- ⚡ Fun fact **I am Humble**
 
 - 🌱 I’m currently learning **Android & Flutter**
 
