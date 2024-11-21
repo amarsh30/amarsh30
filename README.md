@@ -5,7 +5,7 @@
 
 - 🔭 I’m studying on **University of Computer Indonesia**
 
-- 📫 How to reach me [rishaamaraa@gmail.com](rishaamaraa@gmail.com)
+- 📫 How to reach me [risha.amaraa@gmail.com](rishaamaraa@gmail.com)
 
 - ⚡ Fun fact **I am Humble**
 
